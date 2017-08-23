@@ -12,7 +12,7 @@ public interface UserMapper {
 	
     int countByExample(UserExample example);//和i会ggggjjjjjjjjjj
 
-    int deleteByExample(UserExample example);
+    int deleteByExample(UserExample example);///hggg
 
     int deleteByPrimaryKey(Integer id);
 
