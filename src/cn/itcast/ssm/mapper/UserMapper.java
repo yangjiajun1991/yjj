@@ -10,9 +10,11 @@ public interface UserMapper {
 	
 	List<User> getone(Integer[] integers);
 	
-    int countByExample(UserExample example);//
+    
+    int countByExample(UserExample example);//和i会ggggjjjjjjjjjj
 
-    int deleteByExample(UserExample example);//
+
+    int deleteByExample(UserExample example);///hggg
 
     int deleteByPrimaryKey(Integer id);
 
